@@ -1,6 +1,6 @@
 package com.wuhudafei.thread.thread01;
 
-public class StaticThread extends Thread{
+public class StaticThread {
 
 	private static int count = 10;
 	
